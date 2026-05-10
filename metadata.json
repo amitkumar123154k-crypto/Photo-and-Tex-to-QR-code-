@@ -1,0 +1,8 @@
+{
+  "name": "Photo QR Generator (फोटो QR जनरेटर)",
+  "description": "Convert your photos into QR codes. अपलोड करें और अपने फोटो का QR कोड बनाएं जिसे कोई भी कभी भी स्कैन कर सके।",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
